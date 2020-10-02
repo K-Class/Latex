@@ -7,6 +7,8 @@ https://arachnoid.com/latex/
 
 https://quicklatex.com/
 
+https://www.codecogs.com/latex/eqneditor.php
+
 Samples:
 
 Schrodinger Wave Equation:
